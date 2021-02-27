@@ -1,9 +1,9 @@
 # loginFirebase
-<div align="center">
+
 App de um sistema de cadastro funcional desenvolvido em React Native 
 
-<img alt="login" src="src/assets/loginGif.gif" width="400px" />
-</div>
+<img alt="login" src="src/assets/loginGif.gif" width="400px" align="center" />
+
 
 # Ideia
 
