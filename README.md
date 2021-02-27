@@ -1,14 +1,15 @@
 # loginFirebase
-
+<div align="center">
 App de um sistema de cadastro funcional desenvolvido em React Native 
 
 <img alt="login" src="src/assets/loginGif.gif" width="400px" />
+</div>
 
-# O que e?
+# Ideia
 
-Aplicativo mobile desenvolvido em React Native com integração Firebase, projeto funcional de cadastro, login e home :busts_in_silhouette:
+Aplicativo mobile desenvolvido em React Native com integração Firebase, projeto funcional de cadastro, login e home, podendo ser implementado a qualquer outro aplicativo que necessite um sistema de cadastro e login. :busts_in_silhouette:
 
-##:iphone: Tecnologias
+## Tecnologias :iphone:
 
 <table>
 <thead>
